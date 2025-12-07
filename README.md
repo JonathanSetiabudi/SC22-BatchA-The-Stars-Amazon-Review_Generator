@@ -1,20 +1,9 @@
 # Amazon Review Generator 
 The amazing team `@Kai Lorenc` `@Srishti Deb` `@Jonathan Setiabudi` `@Anatulya Nandi` `@Ariel Gonzalez` trained the GPT-2 model and designed the webapp using html/css & flask.
 ## Overview
-TODO: 
-1. short discription: who are the users, what problems are we trying to solve
-2. what is the models/technology 
 ## App Preview 
 ![home](https://github.com/Siqi-Fang/SC22-BatchA-The-Stars-Amazon-Review_Generator/blob/master/home.png)
 ![result](https://github.com/Siqi-Fang/SC22-BatchA-The-Stars-Amazon-Review_Generator/blob/master/result.png)
-
-## Dataset 
-TODO:
-3. what's the dataset 
-
-## Extension 
-TODO:
-4.what are some extension features
 
 ## How to run 
 1. On your terminal, navigate to a directory where you want this app to be stored. (recommended: create a virtual environmnet using [venv](https://docs.python.org/3/library/venv.html) or [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html))
